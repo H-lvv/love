@@ -14,13 +14,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+            <state relative-caret-position="251">
+              <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
               <folding>
                 <element signature="e#690#696#0" expanded="true" />
                 <element signature="e#795#801#0" expanded="true" />
                 <element signature="e#893#899#0" expanded="true" />
                 <element signature="e#870#876#0" expanded="true" />
+                <element signature="e#888#894#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +72,9 @@
       <find>timeElapse</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -91,6 +95,7 @@
     <option name="width" value="1890" />
     <option name="height" value="975" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -114,7 +119,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588232173481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588234069119" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -221,12 +226,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588229685052</updated>
-      <workItem from="1588229688077" duration="2481000" />
+      <workItem from="1588229688077" duration="3408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2481000" />
+    <option name="totallyTimeSpent" value="3408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
@@ -248,7 +253,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30017453" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3006993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -297,13 +302,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+        <state relative-caret-position="251">
+          <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
           <folding>
             <element signature="e#690#696#0" expanded="true" />
             <element signature="e#795#801#0" expanded="true" />
             <element signature="e#893#899#0" expanded="true" />
             <element signature="e#870#876#0" expanded="true" />
+            <element signature="e#888#894#0" expanded="true" />
           </folding>
         </state>
       </provider>
